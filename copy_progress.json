@@ -49,6 +49,11 @@
             "total_chunks": 1,
             "processed_chunks": 1,
             "file_size": 121
+        },
+        "online-examination-systen-in-php-master\\Online_exam_project_report.doc": {
+            "total_chunks": 3,
+            "processed_chunks": 1,
+            "file_size": 2551808
         }
     }
 }
