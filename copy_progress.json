@@ -139,6 +139,11 @@
             "total_chunks": 1,
             "processed_chunks": 1,
             "file_size": 137568
+        },
+        "online-examination-systen-in-php-master\\fonts\\typo.ttf": {
+            "total_chunks": 1,
+            "processed_chunks": 1,
+            "file_size": 42104
         }
     }
 }
