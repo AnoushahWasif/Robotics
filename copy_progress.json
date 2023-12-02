@@ -89,6 +89,11 @@
             "total_chunks": 1,
             "processed_chunks": 1,
             "file_size": 117305
+        },
+        "online-examination-systen-in-php-master\\css\\emty.txt": {
+            "total_chunks": 1,
+            "processed_chunks": 1,
+            "file_size": 7
         }
     }
 }
