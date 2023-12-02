@@ -114,6 +114,11 @@
             "total_chunks": 1,
             "processed_chunks": 1,
             "file_size": 20127
+        },
+        "online-examination-systen-in-php-master\\fonts\\glyphicons-halflings-regular.svg": {
+            "total_chunks": 1,
+            "processed_chunks": 1,
+            "file_size": 108738
         }
     }
 }
