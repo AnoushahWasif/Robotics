@@ -149,6 +149,11 @@
             "total_chunks": 1,
             "processed_chunks": 1,
             "file_size": 167675
+        },
+        "online-examination-systen-in-php-master\\image\\bg1.jpg": {
+            "total_chunks": 1,
+            "processed_chunks": 1,
+            "file_size": 76395
         }
     }
 }
